@@ -95,9 +95,9 @@ a{
 }
 .brand{
 	display: inline-block;
-	width: 160px;
-	height: 64px;
-	background-image: url('../images/common/logo.jpg');
+	width: 200px;
+	height: 87px;
+	background-image: url('../images/common/logo.png');
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -132,7 +132,7 @@ a{
 	background-color: #fefefe;
 }
 .hero.hero-bg-grey{
-	background-color: #efefef;
+	background-color: #70f675eb;
 }
 
 /* jumbotron */
@@ -178,7 +178,7 @@ a{
 	padding: 8px 32px;
 }
 .btn.btn-primary{
-	background-color: #CA82FF;
+	background-color: #691d9f;
 	border: 1px solid #CA82FF;
 	color: #fefefe;
 }
@@ -188,7 +188,7 @@ a{
 }
 .btn.btn-secondary{
 	border: 1px solid #CA82FF;
-	color: #d5a26f;
+	color: #efe7df;
 }
 .btn.btn-secondary:hover{
 	color: #fefefe;
